@@ -11,7 +11,7 @@
             <a class="transition font-medium mr-6 hover:text-purple-500" href="/instructors">Instructors</a>
             <a class="transition font-medium mr-6 hover:text-purple-500" href="/blog">Blog</a>
             <a class="transition font-medium hover:text-purple-500" href="/contact">Contact</a>
-            <button class="bg-blue-500 ml-8 py-2 px-6 rounded">Login/Register</button>
+            <button class="bg-blue-500 text-white ml-8 py-2 px-6 rounded">Login/Register</button>
         </div>
     </div>
 </div>
