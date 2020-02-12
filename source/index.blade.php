@@ -64,7 +64,7 @@
                 <h2 class="mt-8 font-bold text-2xl text-base">Learn by Doing</h2>
 
                 <p class="mt-5">Learn by theory and with IRL projects!<br>
-                 Grasp the information very quickly with our well thought out classes with step by step programs!
+                    Grasp the information very quickly with our well thought out classes with step by step programs!
                 </p>
             </div>
             <div class="col-6">
@@ -74,7 +74,34 @@
     </div>
 </div>
 <div class="container">
-    missionn
-
+    <div class="row items-center py-48">
+        <div class="col-6">
+            <iframe width="522px" height="286px" src="https://www.youtube.com/embed/FWdYL1R4rec" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+        </div>
+        <div class="col-5 text-justify">
+            <h3>Mission</h3>
+            <p class="my-5">The Youth Empowerment Platform strives to support Gostivar’s youth by fostering their
+                leadership skills,
+                encouraging their civic engagement, providing technical skills, and ensuring all members have a space to
+                full their potential in becoming their most authentic, best version of themselves.
+            </p>
+            <p>
+                YEP is achieving its goal by implementing various projects for the youth, such as: <br>
+                #techathon, #gostronic, #mycitymypride, #ihaveadream, #yeptalks and many more!.
+            </p>
+        </div>
+    </div>
+</div>
+<div style="background-image:url('/assets/images/home_register.png');">
+    <div class="container">
+        <div class="row py-32 items-center">
+            <div class="col-7">
+                <h1 class="text-white text-5xl font-bold">Don't forget to register</h1>
+                <button class="mt-8 text-white py-2 px-5">Register</button>
+            </div>
+        </div>
+    </div>
 </div>
 @endsection
