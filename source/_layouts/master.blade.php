@@ -32,7 +32,7 @@
     </div>
 
     <footer>
-
+        @include('_partials.footer')
     </footer>
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
