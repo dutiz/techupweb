@@ -1,7 +1,7 @@
 module.exports = {
   theme: {
     fontFamily: {
-      'sans': 'Poppins, -apple-system, BlinkMacSystemFont',
+      'sans': 'Roboto, -apple-system, BlinkMacSystemFont,sans-serif',
     },
     extend: {}
   },

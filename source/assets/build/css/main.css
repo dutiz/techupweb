@@ -3669,7 +3669,7 @@ video {
 }
 
 .font-sans {
-  font-family: Poppins, -apple-system, BlinkMacSystemFont;
+  font-family: Roboto, -apple-system, BlinkMacSystemFont,sans-serif;
 }
 
 .font-hairline {
@@ -14737,7 +14737,7 @@ video {
   }
 
   .sm\:font-sans {
-    font-family: Poppins, -apple-system, BlinkMacSystemFont;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont,sans-serif;
   }
 
   .sm\:font-hairline {
@@ -25722,7 +25722,7 @@ video {
   }
 
   .md\:font-sans {
-    font-family: Poppins, -apple-system, BlinkMacSystemFont;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont,sans-serif;
   }
 
   .md\:font-hairline {
@@ -36707,7 +36707,7 @@ video {
   }
 
   .lg\:font-sans {
-    font-family: Poppins, -apple-system, BlinkMacSystemFont;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont,sans-serif;
   }
 
   .lg\:font-hairline {
@@ -47692,7 +47692,7 @@ video {
   }
 
   .xl\:font-sans {
-    font-family: Poppins, -apple-system, BlinkMacSystemFont;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont,sans-serif;
   }
 
   .xl\:font-hairline {

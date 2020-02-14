@@ -13,7 +13,7 @@
 
             </div>
             <div class="col-2">
-                <p class="text-sm"> Home > All Courses</p>
+                <p class="offset-1 text-sm"> Home > All Courses</p>
             </div>
         </div>
     </div>
