@@ -1,6 +1,6 @@
 <div class="container my-32">
     <div class="row justify-center ">
-        <div class="col-5 offset-2">
+        <div class="col-5">
             <div class="flex flex-row items-center mb-12">
                 <img src="/assets/images/webdevelopment_img.png" alt="webdevelopment">
                 <div class="ml-4">

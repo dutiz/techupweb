@@ -20,7 +20,7 @@
 <div class="container my-32">
     <div class="row">
 
-        <div class="col-7">
+        <div class="col-7 text-justify">
             <img src="/assets/images/singlecourse_img.png" alt="SingleCourse_img">
             <p class="py-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                 labore et dolore
@@ -48,11 +48,11 @@
         <div class="offset-1 col-4">
             <h2 class="text-white font-bold text-2xl text-center bg-blue-500 px-16 py-5">Lorem ipsum dolor</h2>
             <h2 class="text-black text-center bg-gray-100 px-16 py-5">1. Lorem ipsum dolor sit.</h2>
-            <h2 class="text-gray-500 text-center bg-gray-200 px-16 py-5">Lorem ipsum dolor</h2>
-            <h2 class="text-black text-center bg-gray-100 px-16 py-5">2. Lorem ipsum dolor sit.</h2>
-            <h2 class="text-gray-500 text-center bg-gray-200 px-16 py-5">Lorem ipsum dolor</h2>
-            <h2 class="text-gray-500 text-center bg-gray-100 px-16 py-5">Lorem ipsum dolor</h2>
-            <h2 class="text-gray-500 text-center bg-gray-200 px-16 py-5">Lorem ipsum dolor</h2>
+            <h2 class="text-black text-center bg-gray-200 px-16 py-5">2. Lorem ipsum dolor</h2>
+            <h2 class="text-black text-center bg-gray-100 px-16 py-5">3. Lorem ipsum dolor sit.</h2>
+            <h2 class="text-black text-center bg-gray-200 px-16 py-5">4. Lorem ipsum dolor</h2>
+            <h2 class="text-black text-center bg-gray-100 px-16 py-5">5. Lorem ipsum dolor</h2>
+            <h2 class="text-black text-center bg-gray-200 px-16 py-5">6. Lorem ipsum dolor</h2>
         </div>
     </div>
 </div>
