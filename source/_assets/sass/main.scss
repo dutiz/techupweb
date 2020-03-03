@@ -3,3 +3,15 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.blue-shadow {
+
+    &::before {
+      @apply w-full h-full absolute bg-blue-500;
+      z-index: -1;
+      content: "";
+      top: 20px;
+      right: -20px;
+    }
+
+}

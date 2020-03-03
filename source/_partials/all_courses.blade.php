@@ -1,6 +1,6 @@
 <div class="container my-32">
-    <div class="row justify-center ">
-        <div class="col-5">
+    <div class="row justify-center">
+        <div class="lg:col-5">
             <div class="flex flex-row items-center mb-12">
                 <img src="/assets/images/webdevelopment_img.png" alt="webdevelopment">
                 <div class="ml-4">
@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="flex flex-row items-center mb-12">
-                <img src="/assets/images/python_img.png" alt="python">
+                <img src="/assets/images/python_Img.png" alt="python">
                 <div class="ml-4">
                     <h2 class="text-2xl font-bold">Python</h2>
                     <p>Learn high-level programming skills using a high language.</p>
@@ -23,7 +23,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-5">
+        <div class="lg:col-5">
             <div class="flex flex-row items-center mb-12">
                 <img src="/assets/images/js_img.png" alt="JS">
                 <div class="ml-4">

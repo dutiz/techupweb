@@ -22,7 +22,7 @@
     @stack('styles')
 </head>
 
-<body class="font-sans antialiased flex flex-col">
+<body class="font-sans text-black antialiased flex flex-col">
     <div id="app">
         {{-- Menu --}}
         @include('_partials.menu')

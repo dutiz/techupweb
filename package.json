@@ -20,11 +20,11 @@
         "sass": "^1.24.4",
         "sass-loader": "^8.0.1",
         "tailwind-bootstrap-grid": "^2.1.0",
-        "vue-template-compiler": "^2.6.11",
+        "vue-temtailwindcssplate-compiler": "^2.6.11",
         "yargs": "^4.6.0"
     },
     "dependencies": {
-        "tailwindcss": "^1.1.4",
+        "tailwindcss": "^1.2.0",
         "vue": "^2.6.11"
     }
 }

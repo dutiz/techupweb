@@ -6,13 +6,10 @@
     <div class="container">
         <div class="row items-center justify-between py-20">
             <div class="col-4">
-
-
                 <h2 class="text-5xl"> Contact </h2>
-
             </div>
             <div class="col-3">
-                <p class=" offset-1 text-sm"> Contact </p>
+                <p class="offset-1 text-sm"> Contact </p>
             </div>
         </div>
     </div>
@@ -29,34 +26,39 @@
     </div>
 </div>
 <div class="container mt-40">
-    <div class="row ">
-        <div class="col-6">
-            <h2 class="font-bold text-4xl ">Send us a Message</h2>
-        </div>
-    </div>
-</div>
-<div class="container mt-5">
-    <div class="row ">
-        <div class="col-6">
-            <input class="bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="First Name" name="fname" />
-            <input class="mt-5 bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="Email Adress" name="eadress" />
-        </div>
-        <div class="col-6">
-            <input class=" bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="Last Name" name="lname" />
-            <input class="mt-5 bg-gray-100 py-6 pl-10 w-full" type="text" placeflholder="Phone Noumber"
-                name="phnoumber" />
+    <div class="row">
+        <div class="lg:col-6">
+            <h2 class="font-bold text-4xl">Send us a Message</h2>
         </div>
     </div>
 </div>
 <div class="container mt-5">
     <div class="row">
+        <div class="lg:col-6">
+            <input class="bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="First Name" name="fname" />
+        </div>
+
+        <div class="lg:col-6">
+            <input class="bg-gray-100 py-6 pl-10 w-full mt-5 lg:mt-0" type="text" placeholder="Last Name" name="lname" />
+        </div>
+
+        <div class="lg:col-6">
+            <input class="mt-5 bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="Email Adress" name="eadress" />
+        </div>
+
+        <div class="lg:col-6">
+            <input class="mt-5 bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="Phone Number"
+                   name="phnoumber" />
+        </div>
+
         <div class="col-12">
-            <textarea class="bg-gray-100 py-6 pl-10 w-full" name="message" height="4040px"
-                placeholder="Message"> </textarea>
+            <textarea class="bg-gray-100 py-6 pl-10 w-full mt-5" name="message" rows="5"
+                      placeholder="Message"> </textarea>
             <button class="my-6 bg-blue-500 text-white text-center w-full py-5">
                 Send Message
             </button>
         </div>
+
     </div>
 </div>
 <div class="container mt-24">
