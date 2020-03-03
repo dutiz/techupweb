@@ -5,10 +5,7 @@
     <div class="container">
         <div class="row items-center justify-between py-20">
             <div class="col-4">
-
-
                 <h2 class="text-5xl"> Lesson </h2>
-
             </div>
             <div class="col-3">
                 <p class=" offset-1 text-sm"> Home > All Courses > Html & Css </p>

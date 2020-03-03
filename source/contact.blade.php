@@ -39,7 +39,8 @@
         </div>
 
         <div class="lg:col-6">
-            <input class="bg-gray-100 py-6 pl-10 w-full mt-5 lg:mt-0" type="text" placeholder="Last Name" name="lname" />
+            <input class="bg-gray-100 py-6 pl-10 w-full mt-5 lg:mt-0" type="text" placeholder="Last Name"
+                name="lname" />
         </div>
 
         <div class="lg:col-6">
@@ -47,13 +48,12 @@
         </div>
 
         <div class="lg:col-6">
-            <input class="mt-5 bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="Phone Number"
-                   name="phnoumber" />
+            <input class="mt-5 bg-gray-100 py-6 pl-10 w-full" type="text" placeholder="Phone Number" name="phnoumber" />
         </div>
 
         <div class="col-12">
             <textarea class="bg-gray-100 py-6 pl-10 w-full mt-5" name="message" rows="5"
-                      placeholder="Message"> </textarea>
+                placeholder="Message"> </textarea>
             <button class="my-6 bg-blue-500 text-white text-center w-full py-5">
                 Send Message
             </button>
@@ -73,27 +73,27 @@
 </div>
 <div class="container">
     <div class="row">
-        <div class="col-6 my-8">
+        <div class="w-ful h-auto lg:col-6 my-8">
             <img src="/assets/images/contact_img.png" alt="Contact_img">
         </div>
     </div>
 </div>
 <div class="container">
     <div class="row text-center">
-        <div class="col-4">
+        <div class="lg:col-4">
             <h2 class="font-bold text-lg">Are the courses really free?</h2>
             <p>Yes the courses are completely free of charge.
                 All you have to do is work for it!
             </p>
         </div>
-        <div class="col-4">
-            <h2 class="font-bold text-lg">Where do the materials come from?</h2>
+        <div class="lg:col-4">
+            <h2 class="mt-5 lg:mt-0 font-bold text-lg">Where do the materials come from?</h2>
             <p>The materials do not come from a single source, but rather from the experience and knowledge of many
                 different experts.
             </p>
         </div>
-        <div class="col-4">
-            <h2 class="font-bold text-lg">Are there any age requirements?</h2>
+        <div class="lg:col-4">
+            <h2 class="mt-5 lg:mt-0 font-bold text-lg">Are there any age requirements?</h2>
             <p>The courses will mostly be aimed at high school students, but they are not limited to only them. Anyone
                 with an interest in programming is free to check them out.
             </p>
@@ -101,9 +101,9 @@
     </div>
 </div>
 <div class="container">
-    <div class="row text-center mt-10 mb-24">
-        <div class="col-4">
-            <h2 class="font-bold text-lg">Are there any offline courses?</h2>
+    <div class="row text-center mt-5 mb-10 lg:mt-10 lg:mb-24">
+        <div class="lg:col-4">
+            <h2 class="mt-5 lg:mt-0 font-bold text-lg">Are there any offline courses?</h2>
             <p>
                 Yes, TechUP started as a small web developing course and with time it slowly grew to be what it is
                 today. So except the online courses, TechUP will continue to function as it has. Before the offline
@@ -111,18 +111,19 @@
 
             </p>
         </div>
-        <div class="col-4">
-            <h2 class="font-bold text-lg"> Are there any previous knowledge requirements? </h2>
+        <div class="lg:col-4">
+            <h2 class="mt-5 lg:mt-0 font-bold text-lg"> Are there any previous knowledge requirements? </h2>
             <p>
                 No there are not any previous knowledge requirements. There are more high level courses, but most of
                 them are designed to teach you what you need to know from scratch.
 
             </p>
         </div>
-        <div class="col-4">
-            <h2 class="font-bold text-lg">Can these courses considered as a substitute for school?</h2>
+        <div class="lg:col-4">
+            <h2 class="mt-5 lg:mt-0 font-bold text-lg">Can these courses considered as a substitute for school?</h2>
             <p>
-                To some extent yes but not fully. If you are a high schools tudent, these courses can help you get
+                To some exten
+                t yes but not fully. If you are a high schools tudent, these courses can help you get
                 started and we greatly encourage you to continue your studies to university.
 
             </p>
