@@ -25,7 +25,7 @@
     </div>
 </div>
 <div class="container">
-    <div class="flex flex-row items-center text-center">
+    <div class="row text-center">
         <div class="lg:col-4 ">
             <img class="mt-5 w-full h-auto" src="/assets/images/instructor1.jpg" alt="">
             <h2 class="my-5 font-semibold text-2xl hover:text-orange-500 transition duration-200 ease-in"> Arlind Musliu
