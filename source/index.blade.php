@@ -23,7 +23,7 @@
             <p class="text-center">From graphic design to web development, it’s all here!
                 <br>You will learn how to code front end websites with HTML, Javascript & CSS, as well as the back end
                 of websites with PHP & .NET </p>
-            <button class="mt-6 bg-blue-500 text-white px-5 py-2 rounded">Browse All</button>
+            <button class="mt-6 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600">Browse All</button>
         </div>
     </div>
 </div>
@@ -40,7 +40,7 @@
                     and Macedonian.
                 </p>
                 <p>Enhance your skills in your field of choice</p>
-                <button class="mt-6 bg-blue-500 text-white px-5 py-2 rounded">View All Courses</button>
+                <button class="mt-6 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600">View All Courses</button>
             </div>
         </div>
     </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="lg:col-5 text-center lg:text-left">
                 <h1 class="text-3xl text-white font-bold mt-8 lg:mt-0">Team up for the future and register your team!</h1>
-                <button class="mt-12 bg-blue-500 text-white px-5 py-2 rounded">Read More</button>
+                <button class="mt-12 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600">Read More</button>
             </div>
         </div>
     </div>
