@@ -11,18 +11,30 @@
                 <h2 class="text-5xl"> Instructors </h2>
 
             </div>
-            <div class="col-2">
-                <p class="offset-1 text-sm"> Instructors</p>
+            <div class="col-3">
+                <p class="offset-1 text-sm"> Instructors > Arlind Musliu </p>
             </div>
         </div>
     </div>
 </div>
 <div class="container mt-40">
-    <div class="row">
-        <div class="col-2">
+    <div class="row items-center">
+        <div class="lg:col-2">
             <img src="/assets/images/instructor1.jpg">
 
         </div>
+        <div class="lg:col-2">
+            <h2 class="font-semibold text-2xl text-orange-500">Arlind Musliu </h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="lg:col-4">
+            <div class="my-10">
+                <h2 class="text-2xl font-semibold"> Courses : </h2>
+            </div>
+
+        </div>
+        
     </div>
 </div>
 
