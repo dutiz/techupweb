@@ -23,8 +23,11 @@
             <img src="/assets/images/instructor2.jpg">
 
         </div>
-        <div class="lg:col-2">
+        <div class="lg:col-3">
             <h2 class="font-semibold text-2xl text-orange-500"> Astrit Demiri </h2>
+            <p> Email : ArlindMusliu90@gmail.com </p>
+            <p> Phone : +389 70692549</p>
+            
         </div>
     </div>
     <div class="row">

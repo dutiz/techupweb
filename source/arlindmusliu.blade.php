@@ -23,8 +23,11 @@
             <img src="/assets/images/instructor1.jpg">
 
         </div>
-        <div class="lg:col-2">
+        <div class="lg:col-3">
             <h2 class="font-semibold text-2xl text-orange-500">Arlind Musliu </h2>
+            <p> Email : ArlindMusliu90@gmail.com </p>
+            <p> Phone : +389 70692549</p>
+            
         </div>
     </div>
     <div class="row">
