@@ -23,7 +23,8 @@
             <p class="text-center">From graphic design to web development, it’s all here!
                 <br>You will learn how to code front end websites with HTML, Javascript & CSS, as well as the back end
                 of websites with PHP & .NET </p>
-            <button class="mt-6 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600">Browse All</button>
+            <button
+                class="mt-6 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600 " onclick=" window.location.href='/courses';"> Browse All </button>
         </div>
     </div>
 </div>
@@ -40,7 +41,8 @@
                     and Macedonian.
                 </p>
                 <p>Enhance your skills in your field of choice</p>
-                <button class="mt-6 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600">View All Courses</button>
+                <button
+                    class="mt-6 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600" onclick=" window.location.href='/courses';"> View All Courses </button>
             </div>
         </div>
     </div>
@@ -52,8 +54,11 @@
                 <img class="w-full h-auto" src="/assets/images/techathon.png" alt="techathon">
             </div>
             <div class="lg:col-5 text-center lg:text-left">
-                <h1 class="text-3xl text-white font-bold mt-8 lg:mt-0">Team up for the future and register your team!</h1>
-                <button class="mt-12 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600">Read More</button>
+                <h1 class="text-3xl text-white font-bold mt-8 lg:mt-0">Team up for the future and register your team!
+                </h1>
+                <button
+                    class="mt-12 bg-blue-500 text-white px-5 py-2 rounded transition duration-200 ease-in-out hover:bg-gray-600" onclick=" window.location.href='/techathon';"><a
+                        href="/techathon">Read More</a></button>
             </div>
         </div>
     </div>
@@ -79,9 +84,9 @@
     <div class="row items-center py-48">
         <div class="lg:col-6 overflow-hidden">
             <div style="height: 286px;" class="relative blue-shadow">
-                <iframe class="absolute top-0 left-0 w-full h-full" src="https://www.youtube.com/embed/FWdYL1R4rec" frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+                <iframe class="absolute top-0 left-0 w-full h-full" src="https://www.youtube.com/embed/FWdYL1R4rec"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </div>
         </div>
         <div class="lg:col-5 lg:offset-1 text-justify mt-12 lg:mt-0">
@@ -103,7 +108,9 @@
         <div class="row py-32 items-center">
             <div class="lg:col-7">
                 <h1 class="text-white text-3xl lg:text-5xl font-bold">Don't forget to register</h1>
-                <button class="transition duration-200 ease-in text-white py-2 px-5 border border-white rounded hover:bg-white hover:text-indigo-900">Register</button>
+                <button
+                    class="transition duration-200 ease-in text-white py-2 px-5 border border-white rounded hover:bg-white hover:text-indigo-900"
+                    onclick=" window.location.href='/register'; "> Register </button>
             </div>
         </div>
     </div>

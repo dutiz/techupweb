@@ -15,7 +15,7 @@
 </div>
 <div class="container mt-32 mb-64">
     <div class="row">
-        <div class="col-4">
+        <div class="lg:col-4 mb-10 lg:mb-0">
             <h2 class="text-white font-bold text-2xl text-center bg-blue-500 px-16 py-5">Lorem ipsum dolor</h2>
             <h2 class="text-black text-center bg-gray-100 px-16 py-5">1. Lorem ipsum dolor sit.</h2>
             <h2 class="text-black text-center bg-gray-200 px-16 py-5">2. Lorem ipsum dolor</h2>
@@ -24,7 +24,7 @@
             <h2 class="text-black text-center bg-gray-100 px-16 py-5">5. Lorem ipsum dolor</h2>
             <h2 class="text-black text-center bg-gray-200 px-16 py-5">6. Lorem ipsum dolor</h2>
         </div>
-        <div class="col-7 text-justify">
+        <div class="lg:col-7 text-justify">
             <p>
                 Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo
                 pharetra,

@@ -19,23 +19,31 @@
 </div>
 <div class="container my-40">
     <div class="row">
-        <div class="col-6">
-            <div class="border">
-                <div class="m-10" >
+        <div class="lg:col-6">
+            <div class="border mb-10 lg:mb-0">
+                <div class="m-10">
                     <h2 class="text-4xl font-bold mb-4">Login</h2>
-                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="text" placeholder="Username / E-mail *" name="uname" />
-                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="password" placeholder="Password *" name="password" />
-                    <button class="transition duration-200 ease-in-out bg-orange-500 font-bold text-white py-6 px-10 rounded hover:bg-gray-600"> Login </button>
+                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="text" placeholder="Username / E-mail *"
+                        name="uname" />
+                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="password" placeholder="Password *"
+                        name="password" />
+                    <button
+                        class="transition duration-200 ease-in-out bg-orange-500 font-bold text-white py-6 px-10 rounded hover:bg-gray-600">
+                        Login </button>
                 </div>
             </div>
         </div>
-        <div class="col-6">
+        <div class="lg:col-6">
             <div class="border">
-                <div class="m-10" >
+                <div class="m-10">
                     <h2 class="text-4xl font-bold mb-4">Register</h2>
-                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="text" placeholder="Username / E-mail *" name="uname" />
-                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="password" placeholder="Password *" name="password" />
-                    <button class="transition duration-200 ease-in-out bg-orange-500 font-bold text-white py-6 px-10 rounded hover:bg-gray-600"> Register </button>
+                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="text" placeholder="Username / E-mail *"
+                        name="uname" />
+                    <input class="bg-gray-100 mb-5 py-6 pl-10 w-full" type="password" placeholder="Password *"
+                        name="password" />
+                    <button
+                        class="transition duration-200 ease-in-out bg-orange-500 font-bold text-white py-6 px-10 rounded hover:bg-gray-600"
+                        onclick=" window.location.href='/register' ;"> Register </button>
                 </div>
             </div>
         </div>
